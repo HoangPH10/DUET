@@ -3,7 +3,7 @@ name = "duet"
 version = "0.1.0"
 description = "DUET: Time Series Forecasting Benchmark"
 readme = "README.md"
-requires-python = ">=3.9,<3.13"
+requires-python = ">=3.8,<3.13"
 dependencies = [
     "darts==0.25.0",
     "matplotlib==3.7.5",
